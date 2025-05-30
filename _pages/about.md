@@ -1,14 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I’m Nafisa Islam from Dhaka, Bangladesh. I completed my B.Sc. in Electronics and Telecommunication Engineering (ETE) from Chittagong University of Engineering & Technology (CUET) in July 2024, where I developed a passion for research and innovation at the intersection of Computer Vision, Artificial Intelligence, and Geospatial Analysis.
 
+Currently, I’m working as a Tech Apprentice at IDLC Finance PLC, where I’m gaining hands-on experience in enterprise IT infrastructure, system monitoring, and software quality assurance.
+
+My academic and research pursuits focus on real-world applications of deep learning. I’ve presented and published work on satellite image segmentation, using architectures like Attentive U-Net and Residual Attention U-Net in international conferences such as ICICT 2024 and ECCE 2025. My undergraduate thesis contributed to the advancement of semantic segmentation in high-resolution geospatial imagery.
+
+I’m continuously expanding my skill set in areas like automation testing, cybersecurity, and DevSecOps workflows. Alongside my technical pursuits, I enjoy mentoring my juniors, exploring creative coding projects, and engaging in community and cultural initiatives.
+
+I’m actively seeking graduate-level research opportunities, collaborations, or remote assistantships in AI, Software Engineering, and Cybersecurity domains. If you’re working on something impactful, let’s connect!
+
+Work email: inafisa (at) idlc (dot) com
+Personal email: nafisaislam2032 (at) gmail (dot) com
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
