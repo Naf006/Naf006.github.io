@@ -73,7 +73,7 @@ I’m continuously expanding my skill set in areas like machine learning, cybers
     <strong>N. Islam, T. A. Tias et al.</strong>, 
     "A Residual Attention U-Net Approach for High-Resolution Satellite Image Segmentation," 
     <em>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</em>, 
-    Chattogram, Bangladesh, 2025. 
+    Chittagong, Bangladesh, 2025. 
     <a href="https://ieeexplore.ieee.org/document/11013405">IEEE Xplore</a>
   </li>
   <li>
