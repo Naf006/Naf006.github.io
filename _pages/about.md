@@ -82,8 +82,6 @@ I’m actively seeking graduate-level research opportunities, collaborations, or
     <strong>N. Islam et al.</strong>, 
     "Digital Deception: AI-Generated Honeypots for Dynamic Cyber Threat Intelligence" 
     (Ongoing)  </li>
-  </li>
-  </li>
 </ul>
 
 
