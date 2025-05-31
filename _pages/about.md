@@ -20,10 +20,9 @@ I’m actively seeking graduate-level research opportunities, collaborations, or
 
 **Personal email:** nafisaislam2032 (at) gmail (dot) com
 
-<section id="news-updates" style="max-height: 400px; overflow-y: scroll; border: 1px solid #ccc;">
+<section id="news-updates" style="max-height: 400px; overflow-y: scroll; padding: 1rem; border: 1px solid #ccc;">
   <h2 style="text-align: center;">News and Updates</h2>
   <div style="display: flex; flex-direction: column; gap: 1rem;">
-
 
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">Feb 2025:</div>
