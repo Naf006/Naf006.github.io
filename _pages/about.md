@@ -24,39 +24,40 @@ I’m actively seeking graduate-level research opportunities, collaborations, or
   <h2 style="text-align: center;">News and Updates</h2>
   <div style="display: flex; flex-direction: column; gap: 1rem;">
 
-    <div style="display: flex;">
-      <div style="min-width: 120px; font-weight: bold;">May 2025:</div>
-      <div>Got my F-1 visa</div>
-    </div>
 
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">Feb 2025:</div>
-      <div>Got Admitted into UR</div>
+      <div>Presented paper online at ECCE 2025</div>
     </div>
 
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">Jan 2025:</div>
-      <div>Another paper has been accepted by ECCE 2025, CUET</div>
+      <div>Another paper has been accepted at 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE), CUET, Bangladesh.</div>
+    </div>
+
+    <div style="display: flex;">
+      <div style="min-width: 120px; font-weight: bold;">Jan 2025:</div>
+      <div>Started my first job as an apprentice in Information Technology Department at IDLC Finance PLC</div>
     </div>
 
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">Oct 2024:</div>
-      <div>Presented my paper from undergrad thesis work at <em>2024 2nd International Conference on Information and Communication Technology (ICICT)</em> held at ECE Building, BUET, Bangladesh.</div>
+      <div>Presented the paper at ICICT 2024 at ECE Building, BUET, Bangladesh.</div>
+    </div>
+    
+    <div style="display: flex;">
+      <div style="min-width: 120px; font-weight: bold;">Sept 2024:</div>
+      <div>My first paper (based on undergrad thesis) got accepted at <em>2024 2nd International Conference on Information and Communication Technology (ICICT)</em>, BUET, Bangladesh.</div>
     </div>
 
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">Sept 2024:</div>
-      <div>Landed my first full-time job offer! I joined as a lecturer at SUB CSE. Looking forward to this new journey in academia!</div>
+      <div>Completed my B.Sc. Degree.</div>
     </div>
 
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">June 2024:</div>
       <div>Defended my undergrad thesis!</div>
-    </div>
-
-    <div style="display: flex;">
-      <div style="min-width: 120px; font-weight: bold;">Feb 2024:</div>
-      <div>Organized CUET IUPC 2024 at IT Business Incubator, CUET</div>
     </div>
 
   </div>
