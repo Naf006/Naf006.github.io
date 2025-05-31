@@ -62,5 +62,29 @@ I’m actively seeking graduate-level research opportunities, collaborations, or
   </div>
 </section>
 
+<h2>Publications</h2>
+<ul>
+  <li>
+    <strong>N. Islam, Md. F. Hossain et al.</strong>, 
+    "Semantic Segmentation in Satellite Imagery: An Attentive U-Net Approach," 
+    <em>2024 2nd International Conference on Information and Communication Technology (ICICT)</em>, 
+    Dhaka, Bangladesh, 2024, pp. 115–119. 
+    <a href="https://ieeexplore.ieee.org/document/10839725">IEEE Xplore</a>
+  </li>
+  <li>
+    <strong>N. Islam, T. A. Tias et al.</strong>, 
+    "A Residual Attention U-Net Approach for High-Resolution Satellite Image Segmentation," 
+    <em>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</em>, 
+    Chattogram, Bangladesh, 2025. 
+    <a href="https://ieeexplore.ieee.org/document/11013405">IEEE Xplore</a>
+  </li>
+  <li>
+    <strong>N. Islam et al.</strong>, 
+    "Digital Deception: AI-Generated Honeypots for Dynamic Cyber Threat Intelligence" 
+    (Ongoing)
+  </li>
+  </li>
+</ul>
+
 
 
