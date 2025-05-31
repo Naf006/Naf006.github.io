@@ -15,7 +15,7 @@ Chittagong University of Engineering and Technology (CUET),<br/>
 Chattogram, Bangladesh<br/>
 <strong>CGPA:</strong> 3.57/4.00 [Final Semester: 3.91/4.00]
 </p>
-
+Notable Courses:
 <ul>
 <li>Biomedical Instrumentation</li>
 <li>Satellite Communications & RADAR</li>
