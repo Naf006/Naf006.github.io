@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-<h2>Education</h2>
 
 <p>A brief overview of my academic journey (so far)</p>
 
