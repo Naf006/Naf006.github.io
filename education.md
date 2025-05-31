@@ -8,7 +8,7 @@ author_profile: true
 
 <p>A brief overview of my academic journey (so far)</p>
 
-<h3>Bachelor of Science in Electronics and Telecommunication Engineering (ETE) [2019–2024]</h3>
+<h3>🎓 Bachelor of Science in Electronics and Telecommunication Engineering (ETE) [2019–2024]</h3>
 <p>
 Department of Electronics and Telecommunication Engineering (ETE),<br/>
 Chittagong University of Engineering and Technology (CUET),<br/>
@@ -32,14 +32,14 @@ Chattogram, Bangladesh<br/>
 <li>Object Oriented Programming</li>
 </ul>
 
-<h3>Higher Secondary Certificate (HSC) [2016–2018]</h3>
+<h3>🎓 Higher Secondary Certificate (HSC) [2016–2018]</h3>
 <p>
 Holy Cross College (HCC),<br/>
 Dhaka, Bangladesh<br/>
 <strong>GPA:</strong> 5.00/5.00
 </p>
 
-<h3>Secondary School Certificate (SSC) [2006–2016]</h3>
+<h3>🎓 Secondary School Certificate (SSC) [2006–2016]</h3>
 <p>
 Holy Cross Girls' High School<br/>
 Dhaka, Bangladesh<br/>
